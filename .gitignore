@@ -1,0 +1,18 @@
+# Ignore build and bin/obj folders
+bin/
+obj/
+*.dll
+*.exe
+
+# Ignore user-specific settings
+*.user
+*.suo
+.vs/
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore environment files
+.env
+secrets.json
