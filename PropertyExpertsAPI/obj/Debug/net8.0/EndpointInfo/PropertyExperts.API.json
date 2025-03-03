@@ -1,0 +1,128 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "PropertyExpertsTask API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Invoice/evaluate": {
+      "post": {
+        "tags": [
+          "Invoice"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "InvoiceId": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "InvoiceNumber": {
+                    "type": "string"
+                  },
+                  "InvoiceDate": {
+                    "type": "string",
+                    "format": "date-time"
+                  },
+                  "Comment": {
+                    "type": "string"
+                  },
+                  "Amount": {
+                    "type": "number",
+                    "format": "double"
+                  },
+                  "File": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "InvoiceId": {
+                  "style": "form"
+                },
+                "InvoiceNumber": {
+                  "style": "form"
+                },
+                "InvoiceDate": {
+                  "style": "form"
+                },
+                "Comment": {
+                  "style": "form"
+                },
+                "Amount": {
+                  "style": "form"
+                },
+                "File": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/EvaluationSummary"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EvaluationSummary"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EvaluationSummary"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "EvaluationSummary": {
+        "required": [
+          "evaluationFile",
+          "evaluationId"
+        ],
+        "type": "object",
+        "properties": {
+          "evaluationId": {
+            "type": "string",
+            "nullable": true
+          },
+          "invoiceId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "rulesApplied": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
+          },
+          "classification": {
+            "type": "string",
+            "nullable": true
+          },
+          "evaluationFile": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

@@ -1,0 +1,227 @@
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.csproj.AssemblyReference.cache
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.AssemblyInfoInputs.cache
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.AssemblyInfo.cs
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.csproj.CoreCompileInputs.cache
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.MvcApplicationPartsAssemblyInfo.cs
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.MvcApplicationPartsAssemblyInfo.cache
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\appsettings.json
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.staticwebassets.endpoints.json
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.exe
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.deps.json
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.runtimeconfig.json
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.pdb
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FluentValidation.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\scopedcss\bundle\PropertyExperts.API.styles.css
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.PropertyExperts.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.PropertyExperts.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PropertyExperts.API.props
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PropertyExperts.API.props
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PropertyExperts.API.props
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\Property.C22BFE33.Up2Date
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\refint\PropertyExperts.API.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.pdb
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.genruntimeconfig.cache
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\ref\PropertyExperts.API.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Rules\decision-rules.json
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FastEndpoints.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FastEndpoints.Attributes.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FastEndpoints.Messaging.Core.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\LanguageExt.Core.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\RestSharp.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Polly.dll
+D:\MujtabaData\VisualStudioRepositories\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Polly.Core.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\appsettings.json
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Rules\decision-rules.json
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.exe
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.deps.json
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.runtimeconfig.json
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.pdb
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FastEndpoints.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FastEndpoints.Attributes.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FastEndpoints.Messaging.Core.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FluentValidation.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\LanguageExt.Core.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Polly.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Polly.Core.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\RestSharp.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.csproj.AssemblyReference.cache
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.AssemblyInfoInputs.cache
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.AssemblyInfo.cs
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.csproj.CoreCompileInputs.cache
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.PropertyExperts.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PropertyExperts.API.props
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PropertyExperts.API.props
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PropertyExperts.API.props
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\scopedcss\bundle\PropertyExperts.API.styles.css
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\Property.C22BFE33.Up2Date
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\refint\PropertyExperts.API.dll
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.pdb
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.genruntimeconfig.cache
+D:\Mujtaba Kiyani\PropertyExpert Job Task\PropertyExpertsAPI\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\ref\PropertyExperts.API.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Rules\decision-rules.json
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\appsettings.json
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.staticwebassets.endpoints.json
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.exe
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.deps.json
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.runtimeconfig.json
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\PropertyExperts.API.pdb
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FastEndpoints.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FastEndpoints.Attributes.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FastEndpoints.Messaging.Core.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FluentValidation.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\LanguageExt.Core.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Polly.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Polly.Core.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\RestSharp.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.csproj.AssemblyReference.cache
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.AssemblyInfoInputs.cache
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.AssemblyInfo.cs
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.csproj.CoreCompileInputs.cache
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.MvcApplicationPartsAssemblyInfo.cs
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.MvcApplicationPartsAssemblyInfo.cache
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\scopedcss\bundle\PropertyExperts.API.styles.css
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.PropertyExperts.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.PropertyExperts.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PropertyExperts.API.props
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PropertyExperts.API.props
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PropertyExperts.API.props
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\Property.C22BFE33.Up2Date
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\refint\PropertyExperts.API.dll
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.pdb
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\PropertyExperts.API.genruntimeconfig.cache
+D:\MujtabaData\VisualStudioRepo\PropertyExpertsAPI\PropertyExpertsAPI\obj\Debug\net8.0\ref\PropertyExperts.API.dll

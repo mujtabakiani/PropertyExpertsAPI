@@ -1,0 +1,13 @@
+2025-03-04 00:41:21.065 +08:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/Invoice/evaluate - multipart/form-data; boundary="b9c80b66-04d7-4f31-9c32-71ad4a1d21b1" 952
+2025-03-04 00:41:21.084 +08:00 [INF] Executing endpoint 'InvoiceController.EvaluateInvoice (PropertyExperts.API)'
+2025-03-04 00:41:21.095 +08:00 [INF] Route matched with {action = "EvaluateInvoice", controller = "Invoice"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EvaluateInvoice(PropertyExperts.API.Models.Requests.InvoiceRequest) on controller InvoiceController (PropertyExperts.API).
+2025-03-04 00:41:22.445 +08:00 [INF] Mock API Response: {
+  "classification": "WaterLeakDetection", // other could be “RoofingTileReplacement”, “FireDamagedWallRepair”, “BrokenDoorRepair”, “Basement Waterproofing”
+  "riskLevel": "Low"
+}
+
+2025-03-04 00:41:22.453 +08:00 [INF] Invoice evaluated successfully: PropertyExperts.API.Models.Responses.EvaluationSummary
+2025-03-04 00:41:22.459 +08:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType2`2[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[PropertyExperts.API.Models.Responses.EvaluationSummary, PropertyExperts.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-03-04 00:41:22.470 +08:00 [INF] Executed action InvoiceController.EvaluateInvoice (PropertyExperts.API) in 1374.1926ms
+2025-03-04 00:41:22.470 +08:00 [INF] Executed endpoint 'InvoiceController.EvaluateInvoice (PropertyExperts.API)'
+2025-03-04 00:41:22.496 +08:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/Invoice/evaluate - 200 null application/json; charset=utf-8 1430.7282ms

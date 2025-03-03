@@ -1,0 +1,12 @@
+[
+  {
+    "RuleId": 1,
+    "Condition": "amount < 1000 && riskLevel == 'Low'",
+    "Action": "Approve"
+  },
+  {
+    "RuleId": 2,
+    "Condition": "classification == 'FireDamagedWallRepair' && riskLevel == 'High'",
+    "Action": "Flag for Review"
+  }
+]
