@@ -4,6 +4,11 @@ obj/
 *.dll
 *.exe
 
+PropertyExpertsAPI/bin/
+PropertyExpertsAPI/obj/
+PropertyExperts.Test/bin/
+PropertyExperts.Test/obj/
+
 # Ignore user-specific settings
 *.user
 *.suo
