@@ -45,8 +45,9 @@ public class MockInvoiceClassificationService : IInvoiceClassificationService
 		if (response.StatusCode == HttpStatusCode.OK && !string.IsNullOrEmpty(response.Content))
 		{
 			var classificationResponse = JsonConvert.DeserializeObject<InvoiceClassificationResponse>(response.Content);
-			if(classificationResponse!= null) classificationResponse.IsValid = true;
-			_logger.LogInformation("Mock API Response: {Response}", response.Content);
+			if (classificationResponse != null) classificationResponse.IsValid = true;
+			else classificationResponse = new InvoiceClassificationResponse() { Classification = "Unknown", RiskLevel = "Unknown" };
+				_logger.LogInformation("Mock API Response: {Response}", response.Content);
 			return classificationResponse;
 		}
 

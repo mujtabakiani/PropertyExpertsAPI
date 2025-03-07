@@ -8,9 +8,6 @@ using PropertyExperts.API.Extensions;
 var builder = WebApplication.CreateBuilder(args);
 
 //Configure Serilog Logging
-Log.Logger = new LoggerConfiguration()
-    .WriteTo.Console()
-    .CreateLogger();
 builder.Logging.ClearProviders();
 builder.Logging.AddSerilog();
 SerilogConfig.ConfigureLogging();
@@ -23,7 +20,6 @@ builder.Services.Configure<ApiBehaviorOptions>(options =>
 });
 
 //Register Swagger Services
-builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "PropertyExpertsTask API", Version = "v1" });

@@ -3,7 +3,7 @@
     public class InvoiceClassificationResponse
     {
 		public bool IsValid { get; set; }
-        public required string Classification { get; set; }
-        public required string RiskLevel { get; set; }
+        public string? Classification { get; set; }
+        public string? RiskLevel { get; set; }
     }
 }

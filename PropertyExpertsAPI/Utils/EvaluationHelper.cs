@@ -7,7 +7,7 @@ namespace PropertyExperts.API.Utils
     public static class EvaluationHelper
     {
 		private static int _evaluationCounter = 1;
-		public static EvaluationSummary GenerateSummary(InvoiceRequest request, InvoiceClassificationResponse? classification, List<string>? rulesApplied)
+		public static EvaluationSummary GenerateSummary(InvoiceRequest request, InvoiceClassificationResponse classification, List<string>? rulesApplied)
 		{
 			var evaluationText = GenerateEvaluationSummaryText(request, classification, rulesApplied);
 			var evaluationFileBase64 = FileHelper.ConvertToBase64(evaluationText);
@@ -16,20 +16,20 @@ namespace PropertyExperts.API.Utils
 			{
 				EvaluationId = GenerateEvaluationId(),
 				InvoiceId = request.InvoiceId,
-				Classification = classification?.Classification,
+				Classification = classification.Classification,
 				RulesApplied = rulesApplied,
 				EvaluationFile = evaluationFileBase64
 			};
 		}
 
 
-		public static string GenerateEvaluationSummaryText(InvoiceRequest request, InvoiceClassificationResponse? classification, List<string>? rulesApplied)
+		public static string GenerateEvaluationSummaryText(InvoiceRequest request, InvoiceClassificationResponse classification, List<string>? rulesApplied)
         {
             var sb = new StringBuilder();
             sb.AppendLine($"Invoice Evaluation Summary");
             sb.AppendLine($"Invoice ID: {request.InvoiceId}");
-            sb.AppendLine($"Classification: {classification?.Classification}");
-            sb.AppendLine($"Risk Level: {classification?.RiskLevel}");
+            sb.AppendLine($"Classification: {classification.Classification}");
+            sb.AppendLine($"Risk Level: {classification.RiskLevel}");
             sb.AppendLine($"Amount: {request.Amount}");
             var appliedRules = (rulesApplied != null && rulesApplied.Any()) ? string.Join(", ", rulesApplied) : "";
 			sb.AppendLine($"Rules Applied: {appliedRules}");

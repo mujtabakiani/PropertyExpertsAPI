@@ -10,8 +10,7 @@ namespace PropertyExperts.API.Services.Client
 		private readonly AsyncRetryPolicy<RestResponse> _retryPolicy;
 		private readonly ILogger<RestClientRetryPolicy> _logger;
 
-		public RestClientRetryPolicy(ILogger<RestClientRetryPolicy> logger,
-		IConfiguration configuration)
+		public RestClientRetryPolicy(ILogger<RestClientRetryPolicy> logger, IConfiguration configuration)
 		{
 			_logger = logger;
 			var retryCount = int.TryParse(configuration["RestSharpRetryCount"], out var result) ? result : 1;
